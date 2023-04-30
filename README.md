@@ -2,7 +2,7 @@
 
 **`Software Engineer`**
 
-👨‍🎓 I’m currently a master's student for computer science in https://hac.ac.il/.
+👨‍🎓 I’m currently a master's student for computer science in <a href="https://hac.ac.il/"> <img src="https://custom-icon-badges.demolab.com/badge/-HAC-aqua?style=for-the-badge&logo=hac"/></a>.
 
 👷‍♂️ I'm like to build project from screch, but I also like to work on existing projects or fix bugs 🦗.
 
@@ -11,6 +11,8 @@
 
 
 <hr/>
+
+https://custom-icon-badges.demolab.com/badge/-My%20Repos-aqua?style=for-the-badge&logo=hac
   
 <!--
 **MenachemEngel/MenachemEngel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
