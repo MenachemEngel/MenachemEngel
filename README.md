@@ -2,7 +2,7 @@
 
 **`Software Engineer`**
 
-👨‍🎓 I’m currently a master's student for computer science in <a href="https://hac.ac.il/"> <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/en/8/8e/Hadassah_New_Logo.png"/></a>.
+👨‍🎓 I’m currently a master's student for computer science in <a href="https://hac.ac.il/"> <img alt="HAC" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/en/8/8e/Hadassah_New_Logo.png"/></a>.
 
 👷‍♂️ I'm like to build project from screch, but I also like to work on existing projects or fix bugs 🦗.
 
