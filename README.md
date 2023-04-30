@@ -12,7 +12,6 @@
 
 <hr/>
 
-https://custom-icon-badges.demolab.com/badge/-My%20Repos-aqua?style=for-the-badge&logo=hac
   
 <!--
 **MenachemEngel/MenachemEngel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
