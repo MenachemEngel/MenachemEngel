@@ -7,7 +7,7 @@
 👷‍♂️ I'm like to build project from screch, but I also like to work on existing projects or fix bugs 🦗.
 
 
-<a href="mailto:menachemengel26@gmail.com"> <img alt="menachemengel26@gmail.com" src="https://custom-icon-badges.demolab.com/badge/-My Emaile-FF0000?style=for-the-badge&logo=mail&logoColor=white"/></a>  <a href="https://www.linkedin.com/in/menachem-engel-73a533b0"> <img alt="https://www.linkedin.com/in/menachem-engel-73a533b0" src="https://custom-icon-badges.demolab.com/badge/-My LinkdIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:menachemengel26@gmail.com"> <img alt="menachemengel26@gmail.com" src="https://custom-icon-badges.demolab.com/badge/-Emaile-FF0000?style=for-the-badge&logo=mail&logoColor=white"/></a>  <a href="https://www.linkedin.com/in/menachem-engel-73a533b0"> <img alt="https://www.linkedin.com/in/menachem-engel-73a533b0" src="https://custom-icon-badges.demolab.com/badge/-LinkdIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 
 <hr/>
